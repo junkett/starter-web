@@ -1,5 +1,7 @@
 # Starter Web Project
 
+This is simple web project
+
 ## Introduction
 
 ## Purpose
