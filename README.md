@@ -13,3 +13,7 @@ To blow out the world!
 ## How To Contribute
 
 ## Deployment
+
+### Copyright
+
+David Bartos 2016
