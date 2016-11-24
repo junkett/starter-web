@@ -12,6 +12,8 @@ To blow out the world!
 
 ## How To Contribute
 
+Please fork this repository and then issue push request for review
+
 ## Deployment
 
 ### Copyright
