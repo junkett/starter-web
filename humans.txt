@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David Bartos david.bartos@email.com
 
 # THANKS
 
