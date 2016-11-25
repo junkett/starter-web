@@ -18,4 +18,4 @@ Please fork this repository and then issue push request for review
 
 ### Copyright
 
-David Bartos 2016
+David Bartos 2016 All rights reserved
