@@ -16,6 +16,8 @@ Please fork this repository and then issue push request for review
 
 ## Deployment
 
+Emergency fix
+
 ### Copyright
 
 David Bartos 2016 All rights reserved
